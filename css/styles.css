@@ -1,0 +1,63 @@
+
+#container {
+    margin-top: 5.5em;
+}
+
+#index {
+    background-attachment: fixed;
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    list-style: none;
+    text-decoration: none;
+}
+
+#projects {
+    background-attachment: fixed;
+    background-image: url(../images/projectpic.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.card {
+    opacity: .95;
+    padding: 2em 2em 2em 2em;
+    margin-bottom: 2em;
+    min-height: 25em;;
+}
+
+.container {
+    opacity: .75;
+}
+
+.socialLinks  {
+    background-color: rgba(30, 30, 30, .4);
+    position: fixed;
+    z-index: 1;
+}
+
+.socialLinks > ul > li{
+    margin-top: 5px;
+ }
+
+.socialLinks > ul > li:hover{
+    transform: scale(2);
+ }
+
+
+i {
+    color: royalblue;
+}
+
+li {
+    list-style: none;
+    text-decoration: none;
+}
+
+h6 {
+    color: royalblue;
+    text-decoration: underline;
+}
