@@ -47,6 +47,10 @@
     transform: scale(2);
  }
 
+body {
+    background-attachment: fixed;
+}
+
 
 i {
     color: royalblue;
