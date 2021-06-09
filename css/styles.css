@@ -29,6 +29,14 @@
     min-height: 25em;;
 }
 
+.card-title {
+    text-align: center;
+}
+
+.card-subtitle {
+    text-align: center;
+}
+
 .container {
     opacity: .75;
 }
@@ -59,6 +67,10 @@ i {
 li {
     list-style: none;
     text-decoration: none;
+}
+
+h2 {
+    text-align: center;
 }
 
 h6 {
