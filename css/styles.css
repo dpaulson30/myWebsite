@@ -31,6 +31,10 @@
     padding: 2em 2em 2em 2em;
 }
 
+.card-body {
+    margin-right: 2em;
+}
+
 .card-title {
     text-align: center;
 }
