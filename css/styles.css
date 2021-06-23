@@ -47,6 +47,10 @@
     opacity: .75;
 }
 
+.competencies > li {
+    list-style-type: circle;
+}
+
 .list-group-item  .flex-fill {
     margin-bottom: 0;
     margin-left:-2px;
